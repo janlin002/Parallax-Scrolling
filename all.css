@@ -199,8 +199,8 @@ a {
   background-color: #e26789;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
           box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
-  -webkit-transition: width 1s ease;
-  transition: width 1s ease;
+  -webkit-transition: width 3s ease;
+  transition: width 3s ease;
 }
 
 .header-wrap {
@@ -438,5 +438,19 @@ a {
 /* Gradients */
 .bg-gradient1 {
   background-image: linear-gradient(45deg, #59f0ff, #039dff);
+}
+
+.animated {
+  opacity: 0;
+  -webkit-transition: all 2s;
+  transition: all 2s;
+  -webkit-transform: translateY(50px);
+          transform: translateY(50px);
+}
+
+.fadeIn {
+  opacity: 1;
+  -webkit-transform: translateY(0);
+          transform: translateY(0);
 }
 /*# sourceMappingURL=all.css.map */
