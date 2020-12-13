@@ -10,4 +10,6 @@ background-size:cover;
 background-position:center center;
 }
 ```
-<h4>詳細說明程式碼在這裡</h4>
+<h4>詳細說明程式碼在
+  
+  [這裡](https://github.com/janlin002/draft/blob/master/ps/all.js)</h4>
