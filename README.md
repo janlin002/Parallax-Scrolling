@@ -1,8 +1,7 @@
 # Parallax-Scrolling
 <h4>使用:JQuery , SCSS , Bootstrap</h4>
 
-<h2>技巧</h2>
-<h4>1.固定背景</h4>
+<h4>固定背景</h4>
 
 ```bash
 img{
@@ -11,7 +10,4 @@ background-size:cover;
 background-position:center center;
 }
 ```
-<h4>2.選單滑動效果</h4>
-
-```bash
-```
+<h4>詳細說明程式碼在這裡</h4>
